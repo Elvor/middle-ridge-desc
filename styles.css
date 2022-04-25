@@ -11,6 +11,20 @@
     font-family: Arial;
 }
 
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+html {
+    height: 100%;
+}
+
+.license {
+    margin-top: auto;
+}
+
 .header {
     margin: auto;
 }
